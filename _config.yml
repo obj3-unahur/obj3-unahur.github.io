@@ -168,3 +168,4 @@ extlinks:
 plugins:
   - jemoji
   - jekyll-extlinks
+  - jekyll-linkpreview

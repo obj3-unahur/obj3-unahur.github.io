@@ -6,6 +6,7 @@ gemspec
 
 gem 'jemoji'
 gem 'jekyll-extlinks'
+gem 'jekyll-linkpreview'
 
 group :test do
   gem "html-proofer", "~> 3.18"
