@@ -1,6 +1,6 @@
 ---
 title: 'Contrato pedagógico'
-date: 2020-03-26
+date: 2021-08-10
 author: faloi
 categories: [Clases]
 tags: []
@@ -14,7 +14,7 @@ tags: []
 
 Antes de seguir, te recomendamos que veas [este video resumen](https://www.youtube.com/watch?v=RYOGQ3d0Oqg) del régimen académico, que te va a ayudar a entender un poco más cómo se juega tu aprobación en la materia.
 
-Contaremos con dos instancias de evaluación formal (o sea, dos momentos en que le ponemos una nota numérica a tu trabajo), una hacia mediadios de Mayo y otra promediando Junio. La modalidad en ambos casos será la elaboración de un programa en Kotlin con sus respectivos tests, y alguna instancia de defensa.
+Contaremos con dos instancias de evaluación formal (o sea, dos momentos en que le ponemos una nota numérica a tu trabajo), una hacia fines de Septiembre y otra promediando Noviembre. En ambos casos la nota surgirá de los trabajos obligatorios que hayan realizado hasta el momento.
 
 ## Régimen de aprobación
 
@@ -26,6 +26,8 @@ Como lo establece el régimen académico (que está linkeado más arriba), hay v
 * 4 en el primer TP + 5 en el segundo TP = **recupera ambas instancias** o **rinde evaluación integradora** (no alcanza el promedio y las notas son inferiores a 6);
 * menos de 4 en UNA instancia de evaluación = **recupera esa instancia**;
 * menos de 4 en AMBAS instancias de evaluación = **recupera ambas instancias**.
+
+En nuestro caso, los recuperatorios consistirán en reentregar los ejercicios que los docentes consideremos necesarios.
 
 ## Fechas importantes
 

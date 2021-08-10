@@ -13,7 +13,7 @@ Cada **dos semanas** publicaremos una nueva clase, que estará compuesta por est
 * 💬 un **encuentro sincrónico** donde introduciremos la nueva clase y repasaremos los errores comunes de la anterior,
 * :video_camera: **videos** que explican los temas de la clase,
 * :book: **lecturas**, que servirán para ampliar vocabulario y guiar la búsqueda de más información sobre los temas que trabajemos,
-* :memo: un **ejercicio práctico obligatorio**, que deberá ser entregado por GitHub antes de que comience la siguiente clase. Según el nuevo régimen académico, deberán completar al menos el 70% de estas actividades para poder rendir los parciales,
+* :memo: un **ejercicio práctico obligatorio**, que deberá ser entregado por GitHub antes de que comience la siguiente clase. Estos ejercicios formarán parte de la calificación de la materia.
 
 Podrán hacer consultas por Discord en cualquier momento, que serán respondidas según la disponibilidad del equipo docente. Además, en la semana "del medio" entre clase y clase, tendremos un espacio de consultas en vivo, también por Discord.
 
