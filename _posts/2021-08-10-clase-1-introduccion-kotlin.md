@@ -47,7 +47,10 @@ Nuestra sugerencia es que le eches un vistazo por encima a todo el material que 
 
 Obviamente, podrás volver acá todas las veces que te sean necesarias: mirar nuevamente los videos, mirar qué apuntes relacionados hay, etcétera. Una buena organización de tus tiempos es de vital importancia para llevar adelante una cursada a distancia. :muscle: :timer_clock:
 
-Para esta clase, y todas las que siguen, vas a necesitar instalarte el entorno de desarrollo IntelliJ Idea y tener configurado Git. En la sección [software]({{ '/software' | relative_url }}) vas a encontrar enlaces y algunos apuntes sobre ambas herramientas.
+Para esta clase, y todas las que siguen, vas a necesitar:
+* tener configurado Git,
+* para TypeScript: instalarte el entorno de desarrollo [Visual Studio Code](https://code.visualstudio.com/) o [VSCodium](https://vscodium.com/),
+* para Kotlin: instalarte el entorno de desarrollo [IntelliJ Idea](https://www.jetbrains.com/idea/).
 
 ### Entregas quincenales
 
