@@ -1,14 +1,13 @@
 ---
 title: 'Clase 1 - Introducción a Kotlin'
-date: 2021-03-30
+date: 2021-08-10
 author: faloi
 categories: [Clases]
 tags: [kotlin, wollok]
 lecturas:
-  - id: wollok-a-kotlin
+  - url: https://surprograma.github.io/libro-disenio-oop/docs/kotlin/wollok-a-kotlin/
 videos:
-  - id: FrvAStUN1Lw
-    nombre: Presentación
+  - nombre: Presentación
     descripcion: >
       Clase en vivo de apertura de la materia.
   - id: ldW5u6ugpus
@@ -19,10 +18,6 @@ videos:
     nombre: Flujo de trabajo completo con Git desde el IntelliJ Idea
     descripcion: >
       Cómo clonar, commitear y pushear 100% desde el IDE, sin abrir para nada la consola.
-  - id: XsA-zNikAQU
-    nombre: Migrando Vendedores de Wollok a Kotlin
-    descripcion: >
-      Grabación del proceso de migración de un ejercicio hecho en Wollok a Kotlin. Lo que construimos en el video es el código inicial del ejercicio de la clase.
 entrega:
   fecha: "2021-04-13 23:59"
   ejercicios:
@@ -71,14 +66,16 @@ En cada clase incluiremos uno o varios videos, que subiremos a YouTube en el can
 Para encontrarlos más facilmente, todos los videos de la materia irán quedando en una lista de reproducción llamada [Diseño orientado a objetos en Kotlin](https://www.youtube.com/playlist?list=PL7q-McYJyHliqlpNGSVe-Y3EHDIma_H9U). Recomendamos enfáticamente **NO** hacer una maratón de los videos del canal, sino ir mirándolos a medida que aparezcan en las clases.
 
 
-## Ahora sí: ¡hola Kotlin!
+## Ahora sí: ¡hola Kotlin y Typescript!
 
-Para transmitir los conceptos de la materia hemos elegido utilizar el lenguaje [Kotlin](https://kotlinlang.org/), y el objetivo principal de esta primera clase es que te familiarices con él. Además de ser el nombre de una [isla rusa :ru:](https://es.wikipedia.org/wiki/Isla_de_Kotlin), Kotlin es un lenguaje de programación orientada a objetos con tipado estático, bastante utilizado hoy en día para el desarrollo de aplicaciones móviles en Android.
+Para transmitir los conceptos de la materia hemos elegido utilizar dos lenguajes: [Kotlin](https://kotlinlang.org/) y [TypeScript](https://www.typescriptlang.org/), y el objetivo principal de esta primera clase es que te familiarices con Kotlin. En los próximos trabajos podrás utilizar TypeScript.
 
-Tiene una sintaxis sencilla y bastante parecida a la de Wollok, con la principal diferencia de que en Kotlin hay que explicitar los tipos de _algunas cosas_: principalmente parámetros y valores de retorno de los métodos. Sin ponernos demasiado formales, podemos decir que un _tipo_ define a un grupo de objetos con características similares, por ejemplo:
+Además de ser el nombre de una [isla rusa :ru:](https://es.wikipedia.org/wiki/Isla_de_Kotlin), Kotlin es un lenguaje de programación orientada a objetos con tipado estático, bastante utilizado hoy en día para el desarrollo de aplicaciones móviles en Android.
 
-* el tipo `Int` para los numeros enteros, con los cuales se puede sumar, restar, multiplicar...
-* el tipo `String` para las cadenas de texto, las cuales se pueden pasar a mayúsculas, recortar, consultar su longitud...
+En cuanto a TypeScript, podemos decir que es "el primo tipado" de [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript), y que últimamente viene pisando fuerte en la industria. Puede utilizarse en los mismos lugares que JavaScript: frontend, NodeJS, aplicaciones móviles con React Native, etc.
+
+Ambos tienen una sintaxis sencilla y bastante parecida a la de Wollok, con la principal diferencia de que hay que explicitar los tipos de _algunas cosas_: principalmente parámetros y valores de retorno de los métodos. Sin ponernos demasiado formales, podemos decir que un _tipo_ define a un grupo de objetos con características similares, por ejemplo:
+
+* el tipo `Int` (Kotlin) o `number` (TypeScript) para los números enteros, con los cuales se puede sumar, restar, multiplicar...
+* el tipo `String` (Kotlin) o `string` (TypeScript) para las cadenas de texto, las cuales se pueden pasar a mayúsculas, recortar, consultar su longitud...
 * el tipo `Golondrina` para las aves como la querida Pepita :bird:, a las cuales se le puede preguntar su energía, pedirles que vuelen y etcétera.
-
-En el ejercicio de esta semana vas a tener que "traducir" un ejercicio hecho en Wollok a Kotlin, para lo cual te recomendamos que mires primero los videos en los que damos algunos consejos sobre cómo hacer este trabajo. Además, te dejamos un apunte a modo de guía rápida para acompañarte en dicha tarea.
