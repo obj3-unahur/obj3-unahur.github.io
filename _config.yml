@@ -20,7 +20,7 @@ title: Programación con Objetos 3                          # the main title
 tagline: Licenciatura en Informática - Universidad Nacional de Hurlingham   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Una materia del cuarto año de la Licenciatura en Informática, donde aprendemos diferentes técnicas de diseño orientado a objetos utilizando el lenguaje Kotlin.
+  Una materia del cuarto año de la Licenciatura en Informática, donde profundizamos en el paradigma de objetos.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://obj3-unahur.github.io'
