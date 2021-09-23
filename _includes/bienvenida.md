@@ -1,6 +1,6 @@
 ¡Bienvenido/a!
 
-En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **Programación con Objetos 2**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
+En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **Programación con Objetos 3**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
 Si es la primera vez que entrás acá, te recomendamos que leas el [contrato pedagógico](/articulos/contrato-pedagogico), donde explicamos todo lo que tenés que saber para aprobar esta materia. Si ya viniste varias veces, probablemente quieras ir a la sección [clases](/categorias/clases).
 
