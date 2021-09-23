@@ -32,7 +32,3 @@ En nuestro caso, los recuperatorios consistirán en reentregar los ejercicios qu
 ## Fechas importantes
 
 Ver el [calendario acádemico](http://www.unahur.edu.ar/es/calendario-academico) de la Universidad.
-
-## Programa de la materia
-
-Podés descargarlo haciendo clic [aquí](/assets/pdf/programa-obj2.pdf).
