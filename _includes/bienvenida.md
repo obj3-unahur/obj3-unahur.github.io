@@ -17,7 +17,7 @@ Cada **dos semanas** publicaremos una nueva clase, que estará compuesta por est
 
 Podrán hacer consultas por Discord en cualquier momento, que serán respondidas según la disponibilidad del equipo docente. Además, en la semana "del medio" entre clase y clase, tendremos un espacio de consultas en vivo, también por Discord.
 
-Las actividades sincrónicas serán en el horario de la materia, **Martes de 20:00 a 22:00hs**. Todo el material quedará disponible en este sitio para ser consultado cuando sea necesario.
+Las actividades sincrónicas serán en el horario de la materia, **Martes de 18:30 a 20:30hs**. Todo el material quedará disponible en este sitio para ser consultado cuando sea necesario.
 
 ## :phone: Canales de comunicación
 
