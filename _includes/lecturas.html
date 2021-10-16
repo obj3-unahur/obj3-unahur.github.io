@@ -6,7 +6,7 @@
         {% if it.opcional %}
           {% include opcional-badge.html %}
         {% endif %}
-        {% if it.summary %}
+        {% if it.title %}
           <a href="{{ it.url }}">{{ it.title }}</a>
           {{ it.summary | markdownify }}
         {% else %}
