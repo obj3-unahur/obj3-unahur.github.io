@@ -15,5 +15,5 @@ entrega:
   ejercicios:
   - nombre: Tienda Scala
     repo: obj3-unahur/tienda-scala
-    classroom: https://classroom.github.com/a/aeTs5Uod
+    classroom: https://classroom.github.com/a/oSFlUcvN
 ---
