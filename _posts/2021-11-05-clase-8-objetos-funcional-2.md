@@ -1,5 +1,5 @@
 ---
-title: 'Clase 8 - Seguimos con Funcional y Objetos'
+title: "Clase 8 - Seguimos con Funcional y Objetos"
 date: 2021-11-05
 author: faloi
 categories: [Clases]
@@ -12,11 +12,11 @@ lecturas:
     title: Código elaborado durante la clase
     summary: Seguimos trabajando sobre el repo de la clase anterior, los nuevos cambios están en [este commit](https://github.com/obj3-unahur/2021-C2-Clase-7/commit/d799de45557d3488c46993ea0de6b1ca10b5df23).
 entrega:
-  fecha: "2021-11-02 18:00"
+  fecha: "2021-11-23 18:00"
   ejercicios:
-  - nombre: Repositorio
-    repo: obj3-unahur/repositorio-scala
-    classroom: https://classroom.github.com/a/LYA4ngyd
+    - nombre: Repositorio
+      repo: obj3-unahur/repositorio-scala
+      classroom: https://classroom.github.com/a/LYA4ngyd
 ---
 
 ## Criterios de evaluación y promoción
