@@ -16,7 +16,7 @@ entrega:
   ejercicios:
     - nombre: Repositorio
       repo: obj3-unahur/repositorio-scala
-      classroom: https://classroom.github.com/a/LYA4ngyd
+      classroom: https://classroom.github.com/a/Vc6jLLvl
 ---
 
 ## Criterios de evaluación y promoción
